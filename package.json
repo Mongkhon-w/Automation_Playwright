@@ -1,0 +1,26 @@
+{
+  "name": "automation_playwright",
+  "version": "1.0.0",
+  "description": "* Playwright  \r * InfluxDB \r * Grafana \r * GitHub Actions",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mongkhon-w/Automation_Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mongkhon-w/Automation_Playwright/issues"
+  },
+  "homepage": "https://github.com/Mongkhon-w/Automation_Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  },
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.35.0"
+  }
+}
